@@ -13748,13 +13748,6 @@
     "description": "Quickly add, change, or remove callouts in your notes.",
     "repo": "alythobani/obsidian-callout-toggles"
   },
-  {
-    "id": "simple-focus",
-    "name": "Simple Focus",
-    "author": "Lin Qing",
-    "description": "Allows you to focus on a specific file or folder",
-    "repo": "linqing24/obsidian-simple-focus"
-    },
     {
         "id": "copy-image-text",
         "name": "复制图文 (Copy Image Text)",
@@ -13908,6 +13901,13 @@
     "author": "Wang Guoshi",
     "description": "Generate Anki flashcards in multiple ways.",
     "repo": "Lio5n/blue-star"
+},
+{
+    "id": "simple-focus",
+    "name": "Simple Focus",
+    "author": "Lin Qing",
+    "description": "Allows you to focus on a specific file or folder",
+    "repo": "linqing24/obsidian-simple-focus"
 }
 ]
 
